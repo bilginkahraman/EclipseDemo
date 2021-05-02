@@ -38,6 +38,7 @@ public class main {
 		}
 		
 		System.out.println("Toplam = "+total);
+		System.out.println("Bilgin");
 	}
 
 }
